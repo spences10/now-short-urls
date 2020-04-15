@@ -16,6 +16,10 @@
     {
       "source": "/twitter",
       "destination": "https://twitter.com/spences10"
+    },
+    {
+      "source": "/*",
+      "destination": "https://scottspence.me"
     }
   ]
 }
