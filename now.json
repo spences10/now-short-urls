@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "redirects": [
+    {
+      "source": "/git",
+      "destination": "https://github.com/spences10l"
+    },
+    {
+      "source": "/yt",
+      "destination": "https://www.youtube.com/channel/UCnngLXpLSFsKkDhFoO9Ct3w"
+    },
+    {
+      "source": "/youtube",
+      "destination": "https://www.youtube.com/channel/UCnngLXpLSFsKkDhFoO9Ct3w"
+    },
+    {
+      "source": "/twitter",
+      "destination": "https://twitter.com/spences10"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "short-urls",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "spences10",
+  "license": "MIT"
+}
