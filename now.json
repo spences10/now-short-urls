@@ -11,7 +11,7 @@
     },
     {
       "source": "/wsl-2019",
-      "destination": "https://blog.scottspence.me/wsl-bootstrap-2019"
+      "destination": "https://thelocalhost.blog/2018/12/24/wsl-bootstrap-2019/"
     },
     {
       "source": "/cheat-sheets",
@@ -27,16 +27,16 @@
     },
     {
       "source": "/wsl",
-      "destination": "https://blog.scottspence.me/wsl-bootstrap-2019"
+      "destination": "https://thelocalhost.blog/2018/12/24/wsl-bootstrap-2019/"
     },
     { "source": "/faq", "destination": "https://scottspence.me/faq" },
     {
       "source": "/about",
-      "destination": "https://scottspence.me/about"
+      "destination": "https://scottspence.me/#hi-im-scott"
     },
     {
       "source": "/portfolio",
-      "destination": "https://scottspence.me/portfolio"
+      "destination": "https://scottspence.me/#portfolio"
     },
     { "source": "/blog", "destination": "https://thelocalhost.blog" },
     { "source": "/cv", "destination": "https://mecv.xyz" },
@@ -76,7 +76,7 @@
     },
     {
       "source": "/bab-guide",
-      "destination": "https://blog.scottspence.me/build-a-coding-blog-with-mdx-and-gatsby-2019"
+      "destination": "https://thelocalhost.blog/2019/10/31/build-an-mdx-blog"
     },
     {
       "source": "/gatsbyeatsapis",
@@ -88,7 +88,7 @@
     },
     {
       "source": "/gatsby-data-fetching",
-      "destination": "https://gatsby-build-and-run-time-data-fetching-talk.now.sh/"
+      "destination": "https://gatsby-build-and-run-time-data-fetching-talk.now.sh"
     },
     {
       "source": "/gdftn",
