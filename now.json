@@ -2,8 +2,65 @@
   "version": 2,
   "redirects": [
     {
+      "source": "/",
+      "destination": "https://scottspence.me"
+    },
+    {
+      "source": "/10facts",
+      "destination": "https://10facts.scottspence.me/"
+    },
+    {
+      "source": "/wsl-2019",
+      "destination": "https://blog.scottspence.me/wsl-bootstrap-2019"
+    },
+    {
+      "source": "/cheat-sheets",
+      "destination": "https://github.com/spences10/cheat-sheets"
+    },
+    {
+      "source": "/cheatsheets",
+      "destination": "https://cheatsheets.xyz"
+    },
+    {
+      "source": "/jam-talk",
+      "destination": "https://spreading-the-jam-stack-2019.scottspence.me"
+    },
+    {
+      "source": "/wsl",
+      "destination": "https://blog.scottspence.me/wsl-bootstrap-2019"
+    },
+    { "source": "/faq", "destination": "https://scottspence.me/faq" },
+    {
+      "source": "/about",
+      "destination": "https://scottspence.me/about"
+    },
+    {
+      "source": "/portfolio",
+      "destination": "https://scottspence.me/portfolio"
+    },
+    { "source": "/blog", "destination": "https://thelocalhost.blog" },
+    { "source": "/cv", "destination": "https://mecv.xyz" },
+    { "source": "/devto", "destination": "https://dev.to/spences10" },
+    { "source": "/to", "destination": "https://dev.to/spences10" },
+    {
+      "source": "/so",
+      "destination": "https://stackoverflow.com/users/1138354/spences10?tab=profile"
+    },
+    {
+      "source": "/medium",
+      "destination": "https://medium.com/@spences10"
+    },
+    {
+      "source": "/dium",
+      "destination": "https://medium.com/@spences10"
+    },
+    {
+      "source": "/li",
+      "destination": "https://www.linkedin.com/in/spences10"
+    },
+    {
       "source": "/git",
-      "destination": "https://github.com/spences10l"
+      "destination": "https://github.com/spences10"
     },
     {
       "source": "/yt",
@@ -18,8 +75,29 @@
       "destination": "https://twitter.com/spences10"
     },
     {
-      "source": "/",
-      "destination": "https://scottspence.me"
-    }
+      "source": "/bab-guide",
+      "destination": "https://blog.scottspence.me/build-a-coding-blog-with-mdx-and-gatsby-2019"
+    },
+    {
+      "source": "/gatsbyeatsapis",
+      "destination": "https://gatsby-eats-apis.spences10.now.sh/"
+    },
+    {
+      "source": "/GatsbyEatsAPIs",
+      "destination": "https://gatsby-eats-apis.spences10.now.sh/"
+    },
+    {
+      "source": "/gatsby-data-fetching",
+      "destination": "https://gatsby-build-and-run-time-data-fetching-talk.now.sh/"
+    },
+    {
+      "source": "/gdftn",
+      "destination": "https://gatsby-build-and-run-time-data-fetching-talk.now.sh/?mode=presenter#1"
+    },
+    {
+      "source": "/gdfe",
+      "destination": "https://gatsby-build-and-run-time-data-fetching.spences10.now.sh "
+    },
+    { "source": "/cfromp", "destination": "https://cfromp.xyz/" }
   ]
 }
