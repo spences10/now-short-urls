@@ -12,7 +12,7 @@ Requirements:
 
 ## 📺 Watch the [Video]
 
-Details on the set-up and workflow.
+Details on the set-up and workflow: https://www.youtube.com/watch?v=y807T6Q1qqw
 
 ### Related:
 
