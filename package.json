@@ -2,6 +2,20 @@
   "name": "short-urls",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "spences10",
-  "license": "MIT"
+  "description": "Url shortener for use in Zeit's Now.sh platform",
+  "private": true,
+  "author": "Scott Spence <yo@scottspence.dev>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spences10/now-short-urls.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/spences10/now-short-urls/issues"
+  },
+  "homepage": "https://github.com/spences10/now-short-urls#readme"
 }
