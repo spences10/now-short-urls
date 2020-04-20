@@ -98,6 +98,10 @@
       "source": "/gdfe",
       "destination": "https://gatsby-build-and-run-time-data-fetching.spences10.now.sh "
     },
-    { "source": "/cfromp", "destination": "https://cfromp.xyz/" }
+    { "source": "/cfromp", "destination": "https://cfromp.xyz/" },
+    {
+      "source": "/shorturls",
+      "destination": "https://thelocalhost.blog/2020/04/19/url-shortener-with-nowsh"
+    }
   ]
 }
