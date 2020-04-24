@@ -1,6 +1,6 @@
-# Personal short URLs with Zeit's Now.sh
+# Personal short URLs with Vercel's Now.sh
 
-Create simple short URLs with Zeit's Now.sh
+Create simple short URLs with Vercel's Now.sh
 
 Requirements:
 
