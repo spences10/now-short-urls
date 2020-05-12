@@ -6,11 +6,6 @@
       "destination": "https://scottspence.me"
     },
     {
-      "source": "/*",
-      "status": 404,
-      "destination": "https://scottspence.me"
-    },
-    {
       "source": "/10facts",
       "destination": "https://ten-facts.now.sh/"
     },
