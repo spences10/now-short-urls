@@ -6,6 +6,11 @@
       "destination": "https://scottspence.me"
     },
     {
+      "source": "/*",
+      "status": 404,
+      "destination": "https://scottspence.me"
+    },
+    {
       "source": "/10facts",
       "destination": "https://ten-facts.now.sh/"
     },
@@ -37,6 +42,10 @@
     {
       "source": "/portfolio",
       "destination": "https://scottspence.me/#portfolio"
+    },
+    {
+      "source": "/uses",
+      "destination": "https://scottspence.me/#uses"
     },
     { "source": "/blog", "destination": "https://thelocalhost.blog" },
     { "source": "/cv", "destination": "https://mecv.xyz" },
