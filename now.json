@@ -3,7 +3,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "https://scottspence.me"
+      "destination": "https://scottspence.com"
     },
     {
       "source": "/10facts",
@@ -11,7 +11,7 @@
     },
     {
       "source": "/wsl-2019",
-      "destination": "https://thelocalhost.blog/2018/12/24/wsl-bootstrap-2019/"
+      "destination": "https://scottspence.com/2018/12/24/wsl-bootstrap-2019/"
     },
     {
       "source": "/cheat-sheets",
@@ -27,22 +27,23 @@
     },
     {
       "source": "/wsl",
-      "destination": "https://thelocalhost.blog/2018/12/24/wsl-bootstrap-2019/"
+      "destination": "https://scottspence.com/2018/12/24/wsl-bootstrap-2019/"
     },
-    { "source": "/faq", "destination": "https://scottspence.me/faq" },
+    { "source": "/faq", "destination": "https://scottspence.com/faq" },
     {
       "source": "/about",
-      "destination": "https://scottspence.me/#hi-im-scott"
+      "destination": "https://scottspence.com/#hi-im-scott"
     },
     {
       "source": "/portfolio",
-      "destination": "https://scottspence.me/#portfolio"
+      "destination": "https://scottspence.com/#portfolio"
     },
     {
       "source": "/uses",
-      "destination": "https://scottspence.me/#uses"
+      "destination": "https://scottspence.com/#uses"
     },
-    { "source": "/blog", "destination": "https://thelocalhost.blog" },
+    { "source": "/blog", "destination": "https://scottspence.com/garden" },
+    { "source": "/garden", "destination": "https://scottspence.com/garden" },
     { "source": "/cv", "destination": "https://mecv.xyz" },
     { "source": "/devto", "destination": "https://dev.to/spences10" },
     { "source": "/to", "destination": "https://dev.to/spences10" },
@@ -80,7 +81,7 @@
     },
     {
       "source": "/bab-guide",
-      "destination": "https://thelocalhost.blog/2019/10/31/build-an-mdx-blog"
+      "destination": "https://scottspence.com/2019/10/31/build-an-mdx-blog"
     },
     {
       "source": "/gatsbyeatsapis",
@@ -105,7 +106,7 @@
     { "source": "/cfromp", "destination": "https://cfromp.xyz/" },
     {
       "source": "/shorturls",
-      "destination": "https://thelocalhost.blog/2020/04/19/url-shortener-with-nowsh"
+      "destination": "https://scottspence.com/2020/04/19/url-shortener-with-nowsh"
     }
   ]
 }
