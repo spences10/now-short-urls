@@ -107,6 +107,14 @@
     {
       "source": "/shorturls",
       "destination": "https://scottspence.com/2020/04/19/url-shortener-with-nowsh"
+    },
+    {
+      "source": "/talks",
+      "destination": "https://scottspence.com/speaking"
+    },
+    {
+      "source": "/speaking",
+      "destination": "https://scottspence.com/speaking"
     }
   ]
 }
