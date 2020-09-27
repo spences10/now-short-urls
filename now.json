@@ -119,6 +119,10 @@
     {
       "source": "/speaking",
       "destination": "https://scottspence.com/speaking"
+    },
+    {
+      "source": "/mdsd",
+      "destination": "https://markdown-showdown.vercel.app/"
     }
   ]
 }
