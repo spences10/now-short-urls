@@ -125,12 +125,12 @@
       "destination": "https://markdown-showdown.vercel.app/"
     },
     {
-      "source": "/dt",
-      "destination": "https://scottspence.com/daily-tasks"
+      "source": "/dc",
+      "destination": "https://scottspence.com/daily-checklist"
     },
     {
-      "source": "/daily-tasks",
-      "destination": "https://scottspence.com/daily-tasks"
+      "source": "/daily-checklist",
+      "destination": "https://scottspence.com/daily-checklist"
     }
   ]
 }
