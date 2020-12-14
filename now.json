@@ -123,6 +123,14 @@
     {
       "source": "/mdsd",
       "destination": "https://markdown-showdown.vercel.app/"
+    },
+    {
+      "source": "/dt",
+      "destination": "https://scottspence.com/daily-tasks"
+    },
+    {
+      "source": "/daily-tasks",
+      "destination": "https://scottspence.com/daily-tasks"
     }
   ]
 }
