@@ -131,6 +131,10 @@
     {
       "source": "/daily-checklist",
       "destination": "https://scottspence.com/daily-checklist"
+    },
+    {
+      "source": "/nl",
+      "destination": "https://scottspence.com/newsletter"
     }
   ]
 }
