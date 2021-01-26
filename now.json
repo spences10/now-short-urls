@@ -135,6 +135,10 @@
     {
       "source": "/nl",
       "destination": "https://scottspence.com/newsletter"
+    },
+    {
+      "source": "/sb",
+      "destination": "https://dendron.vercel.app/"
     }
   ]
 }
