@@ -84,6 +84,10 @@
       "destination": "https://www.twitch.tv/spences10"
     },
     {
+      "source": "/spotify",
+      "destination": "https://open.spotify.com/user/spences10"
+    },
+    {
       "source": "/bab-guide",
       "destination": "https://scottspence.com/2019/10/31/build-an-mdx-blog"
     },
