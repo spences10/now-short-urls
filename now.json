@@ -68,6 +68,10 @@
       "destination": "https://github.com/spences10"
     },
     {
+      "source": "/github",
+      "destination": "https://github.com/spences10"
+    },
+    {
       "source": "/yt",
       "destination": "https://www.youtube.com/scottspenceplease"
     },
