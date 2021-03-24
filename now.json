@@ -129,8 +129,12 @@
       "destination": "https://scottspence.com/speaking"
     },
     {
-      "source": "/mdsd",
+      "source": "/mdsds",
       "destination": "https://markdown-showdown.vercel.app/"
+    },
+    {
+      "source": "/mdsd",
+      "destination": "https://scottspence.com/2020/09/17/writing-with-markdown/"
     },
     {
       "source": "/dc",
