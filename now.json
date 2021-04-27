@@ -32,7 +32,7 @@
     { "source": "/faq", "destination": "https://scottspence.com/faq" },
     {
       "source": "/about",
-      "destination": "https://scottspence.com/#hi-im-scott"
+      "destination": "https://scottspence.com/about"
     },
     {
       "source": "/portfolio",
