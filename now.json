@@ -36,11 +36,11 @@
     },
     {
       "source": "/portfolio",
-      "destination": "https://scottspence.com/#portfolio"
+      "destination": "https://scottspence.com/portfolio"
     },
     {
       "source": "/uses",
-      "destination": "https://scottspence.com/#uses"
+      "destination": "https://scottspence.com/uses"
     },
     { "source": "/blog", "destination": "https://scottspence.com/garden" },
     { "source": "/garden", "destination": "https://scottspence.com/garden" },
