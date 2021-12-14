@@ -151,6 +151,10 @@
     {
       "source": "/sb",
       "destination": "https://dendron.vercel.app/"
+    },
+    {
+      "source": "/skatcl",
+      "destination": "https://sveltekit-and-the-content-layer.vercel.app/1"
     }
   ]
 }
